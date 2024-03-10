@@ -1,0 +1,15 @@
+{
+  "name": "atividade1",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Atividade 1 de Linguagem de programação 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yago Verzas Miron",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
